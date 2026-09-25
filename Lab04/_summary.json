@@ -1,0 +1,1812 @@
+[
+ {
+  "file": "canvas.phenikaa-uni.edu.vn-20260918T075931.html",
+  "url": "https://canvas.phenikaa-uni.edu.vn/courses/12794/modules/items/187863",
+  "fetchTime": "2026-09-18T00:59:31.288Z",
+  "lhVersion": "13.4.1",
+  "formFactor": "desktop",
+  "throttling": {
+   "rttMs": 40,
+   "kbps": 10240,
+   "cpu": 1
+  },
+  "scores": {
+   "performance": 87,
+   "accessibility": 96,
+   "best-practices": 92,
+   "seo": 58,
+   "agentic-browsing": 81
+  },
+  "metrics": {
+   "FCP": 386.68899999999996,
+   "LCP": 1135.6889999999999,
+   "TBT": 81,
+   "CLS": 0.2009219963075474,
+   "SI": 1276.8013097506537,
+   "TTI": 1175.6889999999999
+  },
+  "totalKiB": 2555,
+  "requests": 80,
+  "fails": {
+   "performance": [
+    {
+     "id": "largest-contentful-paint",
+     "title": "Largest Contentful Paint",
+     "dv": "1.1 s"
+    },
+    {
+     "id": "total-blocking-time",
+     "title": "Total Blocking Time",
+     "dv": "80 ms"
+    },
+    {
+     "id": "cumulative-layout-shift",
+     "title": "Cumulative Layout Shift",
+     "dv": "0.201"
+    },
+    {
+     "id": "speed-index",
+     "title": "Speed Index",
+     "dv": "1.3 s"
+    },
+    {
+     "id": "cls-culprits-insight",
+     "title": "Layout shift culprits",
+     "dv": ""
+    },
+    {
+     "id": "font-display-insight",
+     "title": "Font display",
+     "dv": "Est savings of 50 ms"
+    },
+    {
+     "id": "legacy-javascript-insight",
+     "title": "Legacy JavaScript",
+     "dv": "Est savings of 10 KiB"
+    },
+    {
+     "id": "network-dependency-tree-insight",
+     "title": "Network dependency tree",
+     "dv": ""
+    },
+    {
+     "id": "render-blocking-insight",
+     "title": "Render-blocking requests",
+     "dv": "Est savings of 70 ms"
+    },
+    {
+     "id": "max-potential-fid",
+     "title": "Max Potential First Input Delay",
+     "dv": "110 ms"
+    },
+    {
+     "id": "unminified-css",
+     "title": "Minify CSS",
+     "dv": "Est savings of 31 KiB"
+    },
+    {
+     "id": "unminified-javascript",
+     "title": "Minify JavaScript",
+     "dv": "Est savings of 2 KiB"
+    },
+    {
+     "id": "unused-css-rules",
+     "title": "Reduce unused CSS",
+     "dv": "Est savings of 69 KiB"
+    },
+    {
+     "id": "unused-javascript",
+     "title": "Reduce unused JavaScript",
+     "dv": "Est savings of 723 KiB"
+    },
+    {
+     "id": "unsized-images",
+     "title": "Image elements do not have explicit `width` and `height`",
+     "dv": ""
+    },
+    {
+     "id": "bf-cache",
+     "title": "Page prevented back/forward cache restoration",
+     "dv": "2 failure reasons"
+    },
+    {
+     "id": "layout-shifts",
+     "title": "Avoid large layout shifts",
+     "dv": "1 layout shift found"
+    }
+   ],
+   "accessibility": [
+    {
+     "id": "color-contrast",
+     "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+     "dv": ""
+    }
+   ],
+   "best-practices": [
+    {
+     "id": "errors-in-console",
+     "title": "Browser errors were logged to the console",
+     "dv": ""
+    },
+    {
+     "id": "valid-source-maps",
+     "title": "Missing source maps for large first-party JavaScript",
+     "dv": ""
+    },
+    {
+     "id": "inspector-issues",
+     "title": "Issues were logged in the `Issues` panel in Chrome Devtools",
+     "dv": ""
+    }
+   ],
+   "seo": [
+    {
+     "id": "is-crawlable",
+     "title": "Page is blocked from indexing",
+     "dv": ""
+    },
+    {
+     "id": "meta-description",
+     "title": "Document does not have a meta description",
+     "dv": ""
+    }
+   ],
+   "agentic-browsing": [
+    {
+     "id": "cumulative-layout-shift",
+     "title": "Cumulative Layout Shift",
+     "dv": "0.201"
+    }
+   ]
+  },
+  "warnings": [],
+  "benchmarkIndex": 2576.5
+ },
+ {
+  "file": "canvas.phenikaa-uni.edu.vn-20260918T080043.html",
+  "url": "https://canvas.phenikaa-uni.edu.vn/courses/12794/modules/items/187863",
+  "fetchTime": "2026-09-18T01:00:43.183Z",
+  "lhVersion": "13.4.1",
+  "formFactor": "desktop",
+  "throttling": {
+   "rttMs": 40,
+   "kbps": 10240,
+   "cpu": 1
+  },
+  "scores": {
+   "performance": 88,
+   "accessibility": 96,
+   "best-practices": 92,
+   "seo": 58,
+   "agentic-browsing": 81
+  },
+  "metrics": {
+   "FCP": 357.46500000000003,
+   "LCP": 1107.4650000000001,
+   "TBT": 20,
+   "CLS": 0.2009219963075474,
+   "SI": 1175.0382846813502,
+   "TTI": 1147.4650000000001
+  },
+  "totalKiB": 2603,
+  "requests": 81,
+  "fails": {
+   "performance": [
+    {
+     "id": "largest-contentful-paint",
+     "title": "Largest Contentful Paint",
+     "dv": "1.1 s"
+    },
+    {
+     "id": "cumulative-layout-shift",
+     "title": "Cumulative Layout Shift",
+     "dv": "0.201"
+    },
+    {
+     "id": "speed-index",
+     "title": "Speed Index",
+     "dv": "1.2 s"
+    },
+    {
+     "id": "cls-culprits-insight",
+     "title": "Layout shift culprits",
+     "dv": ""
+    },
+    {
+     "id": "font-display-insight",
+     "title": "Font display",
+     "dv": "Est savings of 40 ms"
+    },
+    {
+     "id": "legacy-javascript-insight",
+     "title": "Legacy JavaScript",
+     "dv": "Est savings of 10 KiB"
+    },
+    {
+     "id": "network-dependency-tree-insight",
+     "title": "Network dependency tree",
+     "dv": ""
+    },
+    {
+     "id": "render-blocking-insight",
+     "title": "Render-blocking requests",
+     "dv": "Est savings of 50 ms"
+    },
+    {
+     "id": "max-potential-fid",
+     "title": "Max Potential First Input Delay",
+     "dv": "70 ms"
+    },
+    {
+     "id": "unminified-css",
+     "title": "Minify CSS",
+     "dv": "Est savings of 31 KiB"
+    },
+    {
+     "id": "unminified-javascript",
+     "title": "Minify JavaScript",
+     "dv": "Est savings of 2 KiB"
+    },
+    {
+     "id": "unused-css-rules",
+     "title": "Reduce unused CSS",
+     "dv": "Est savings of 27 KiB"
+    },
+    {
+     "id": "unused-javascript",
+     "title": "Reduce unused JavaScript",
+     "dv": "Est savings of 693 KiB"
+    },
+    {
+     "id": "unsized-images",
+     "title": "Image elements do not have explicit `width` and `height`",
+     "dv": ""
+    },
+    {
+     "id": "bf-cache",
+     "title": "Page prevented back/forward cache restoration",
+     "dv": "3 failure reasons"
+    },
+    {
+     "id": "layout-shifts",
+     "title": "Avoid large layout shifts",
+     "dv": "1 layout shift found"
+    }
+   ],
+   "accessibility": [
+    {
+     "id": "color-contrast",
+     "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+     "dv": ""
+    }
+   ],
+   "best-practices": [
+    {
+     "id": "errors-in-console",
+     "title": "Browser errors were logged to the console",
+     "dv": ""
+    },
+    {
+     "id": "valid-source-maps",
+     "title": "Missing source maps for large first-party JavaScript",
+     "dv": ""
+    },
+    {
+     "id": "inspector-issues",
+     "title": "Issues were logged in the `Issues` panel in Chrome Devtools",
+     "dv": ""
+    }
+   ],
+   "seo": [
+    {
+     "id": "is-crawlable",
+     "title": "Page is blocked from indexing",
+     "dv": ""
+    },
+    {
+     "id": "meta-description",
+     "title": "Document does not have a meta description",
+     "dv": ""
+    }
+   ],
+   "agentic-browsing": [
+    {
+     "id": "cumulative-layout-shift",
+     "title": "Cumulative Layout Shift",
+     "dv": "0.201"
+    }
+   ]
+  },
+  "warnings": [
+   "The page loaded too slowly to finish within the time limit. Results may be incomplete."
+  ],
+  "benchmarkIndex": 2908
+ },
+ {
+  "file": "canvas.phenikaa-uni.edu.vn-20260918T080200.html",
+  "url": "https://canvas.phenikaa-uni.edu.vn/courses/12794/modules/items/187863",
+  "fetchTime": "2026-09-18T01:02:00.467Z",
+  "lhVersion": "13.4.1",
+  "formFactor": "desktop",
+  "throttling": {
+   "rttMs": 40,
+   "kbps": 10240,
+   "cpu": 1
+  },
+  "scores": {
+   "performance": 86,
+   "accessibility": 96,
+   "best-practices": 92,
+   "seo": 58,
+   "agentic-browsing": 81
+  },
+  "metrics": {
+   "FCP": 732.2116,
+   "LCP": 1172.2116,
+   "TBT": 24,
+   "CLS": 0.2009219963075474,
+   "SI": 1560.2801056797757,
+   "TTI": 1212.2116
+  },
+  "totalKiB": 2535,
+  "requests": 80,
+  "fails": {
+   "performance": [
+    {
+     "id": "first-contentful-paint",
+     "title": "First Contentful Paint",
+     "dv": "0.7 s"
+    },
+    {
+     "id": "largest-contentful-paint",
+     "title": "Largest Contentful Paint",
+     "dv": "1.2 s"
+    },
+    {
+     "id": "cumulative-layout-shift",
+     "title": "Cumulative Layout Shift",
+     "dv": "0.201"
+    },
+    {
+     "id": "speed-index",
+     "title": "Speed Index",
+     "dv": "1.6 s"
+    },
+    {
+     "id": "cls-culprits-insight",
+     "title": "Layout shift culprits",
+     "dv": ""
+    },
+    {
+     "id": "font-display-insight",
+     "title": "Font display",
+     "dv": "Est savings of 170 ms"
+    },
+    {
+     "id": "legacy-javascript-insight",
+     "title": "Legacy JavaScript",
+     "dv": "Est savings of 10 KiB"
+    },
+    {
+     "id": "network-dependency-tree-insight",
+     "title": "Network dependency tree",
+     "dv": ""
+    },
+    {
+     "id": "render-blocking-insight",
+     "title": "Render-blocking requests",
+     "dv": "Est savings of 50 ms"
+    },
+    {
+     "id": "max-potential-fid",
+     "title": "Max Potential First Input Delay",
+     "dv": "70 ms"
+    },
+    {
+     "id": "unminified-css",
+     "title": "Minify CSS",
+     "dv": "Est savings of 31 KiB"
+    },
+    {
+     "id": "unminified-javascript",
+     "title": "Minify JavaScript",
+     "dv": "Est savings of 2 KiB"
+    },
+    {
+     "id": "unused-css-rules",
+     "title": "Reduce unused CSS",
+     "dv": "Est savings of 48 KiB"
+    },
+    {
+     "id": "unused-javascript",
+     "title": "Reduce unused JavaScript",
+     "dv": "Est savings of 650 KiB"
+    },
+    {
+     "id": "unsized-images",
+     "title": "Image elements do not have explicit `width` and `height`",
+     "dv": ""
+    },
+    {
+     "id": "bf-cache",
+     "title": "Page prevented back/forward cache restoration",
+     "dv": "2 failure reasons"
+    },
+    {
+     "id": "layout-shifts",
+     "title": "Avoid large layout shifts",
+     "dv": "1 layout shift found"
+    }
+   ],
+   "accessibility": [
+    {
+     "id": "color-contrast",
+     "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+     "dv": ""
+    }
+   ],
+   "best-practices": [
+    {
+     "id": "errors-in-console",
+     "title": "Browser errors were logged to the console",
+     "dv": ""
+    },
+    {
+     "id": "valid-source-maps",
+     "title": "Missing source maps for large first-party JavaScript",
+     "dv": ""
+    },
+    {
+     "id": "inspector-issues",
+     "title": "Issues were logged in the `Issues` panel in Chrome Devtools",
+     "dv": ""
+    }
+   ],
+   "seo": [
+    {
+     "id": "is-crawlable",
+     "title": "Page is blocked from indexing",
+     "dv": ""
+    },
+    {
+     "id": "meta-description",
+     "title": "Document does not have a meta description",
+     "dv": ""
+    }
+   ],
+   "agentic-browsing": [
+    {
+     "id": "cumulative-layout-shift",
+     "title": "Cumulative Layout Shift",
+     "dv": "0.201"
+    }
+   ]
+  },
+  "warnings": [],
+  "benchmarkIndex": 2750
+ },
+ {
+  "file": "canvas.phenikaa-uni.edu.vn-20260918T080310.html",
+  "url": "https://canvas.phenikaa-uni.edu.vn/courses/12794/modules/items/187863",
+  "fetchTime": "2026-09-18T01:03:10.180Z",
+  "lhVersion": "13.4.1",
+  "formFactor": "mobile",
+  "throttling": {
+   "rttMs": 150,
+   "kbps": 1638.4,
+   "cpu": 4
+  },
+  "scores": {
+   "performance": 60,
+   "accessibility": 95,
+   "best-practices": 92,
+   "seo": 54,
+   "agentic-browsing": 100
+  },
+  "metrics": {
+   "FCP": 3036.234,
+   "LCP": 5886.234,
+   "TBT": 390,
+   "CLS": 0,
+   "SI": 5374.35442610006,
+   "TTI": 13737.734
+  },
+  "totalKiB": 2533,
+  "requests": 78,
+  "fails": {
+   "performance": [
+    {
+     "id": "first-contentful-paint",
+     "title": "First Contentful Paint",
+     "dv": "3.0 s"
+    },
+    {
+     "id": "largest-contentful-paint",
+     "title": "Largest Contentful Paint",
+     "dv": "5.9 s"
+    },
+    {
+     "id": "total-blocking-time",
+     "title": "Total Blocking Time",
+     "dv": "390 ms"
+    },
+    {
+     "id": "speed-index",
+     "title": "Speed Index",
+     "dv": "5.4 s"
+    },
+    {
+     "id": "font-display-insight",
+     "title": "Font display",
+     "dv": "Est savings of 70 ms"
+    },
+    {
+     "id": "legacy-javascript-insight",
+     "title": "Legacy JavaScript",
+     "dv": "Est savings of 10 KiB"
+    },
+    {
+     "id": "network-dependency-tree-insight",
+     "title": "Network dependency tree",
+     "dv": ""
+    },
+    {
+     "id": "render-blocking-insight",
+     "title": "Render-blocking requests",
+     "dv": "Est savings of 250 ms"
+    },
+    {
+     "id": "interactive",
+     "title": "Time to Interactive",
+     "dv": "13.7 s"
+    },
+    {
+     "id": "max-potential-fid",
+     "title": "Max Potential First Input Delay",
+     "dv": "280 ms"
+    },
+    {
+     "id": "unminified-css",
+     "title": "Minify CSS",
+     "dv": "Est savings of 31 KiB"
+    },
+    {
+     "id": "unminified-javascript",
+     "title": "Minify JavaScript",
+     "dv": "Est savings of 2 KiB"
+    },
+    {
+     "id": "unused-css-rules",
+     "title": "Reduce unused CSS",
+     "dv": "Est savings of 43 KiB"
+    },
+    {
+     "id": "unused-javascript",
+     "title": "Reduce unused JavaScript",
+     "dv": "Est savings of 612 KiB"
+    },
+    {
+     "id": "mainthread-work-breakdown",
+     "title": "Minimize main-thread work",
+     "dv": "3.0 s"
+    },
+    {
+     "id": "bf-cache",
+     "title": "Page prevented back/forward cache restoration",
+     "dv": "2 failure reasons"
+    }
+   ],
+   "accessibility": [
+    {
+     "id": "color-contrast",
+     "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+     "dv": ""
+    }
+   ],
+   "best-practices": [
+    {
+     "id": "errors-in-console",
+     "title": "Browser errors were logged to the console",
+     "dv": ""
+    },
+    {
+     "id": "valid-source-maps",
+     "title": "Missing source maps for large first-party JavaScript",
+     "dv": ""
+    },
+    {
+     "id": "inspector-issues",
+     "title": "Issues were logged in the `Issues` panel in Chrome Devtools",
+     "dv": ""
+    }
+   ],
+   "seo": [
+    {
+     "id": "is-crawlable",
+     "title": "Page is blocked from indexing",
+     "dv": ""
+    },
+    {
+     "id": "meta-description",
+     "title": "Document does not have a meta description",
+     "dv": ""
+    }
+   ],
+   "agentic-browsing": []
+  },
+  "warnings": [],
+  "benchmarkIndex": 2641
+ },
+ {
+  "file": "canvas.phenikaa-uni.edu.vn-20260918T080414.html",
+  "url": "https://canvas.phenikaa-uni.edu.vn/courses/12794/modules/items/187863",
+  "fetchTime": "2026-09-18T01:04:14.690Z",
+  "lhVersion": "13.4.1",
+  "formFactor": "mobile",
+  "throttling": {
+   "rttMs": 150,
+   "kbps": 1638.4,
+   "cpu": 4
+  },
+  "scores": {
+   "performance": 57,
+   "accessibility": 95,
+   "best-practices": 92,
+   "seo": 54,
+   "agentic-browsing": 100
+  },
+  "metrics": {
+   "FCP": 3081.7768,
+   "LCP": 5931.7768,
+   "TBT": 475,
+   "CLS": 0,
+   "SI": 5061.860387735931,
+   "TTI": 11251.1268
+  },
+  "totalKiB": 2514,
+  "requests": 78,
+  "fails": {
+   "performance": [
+    {
+     "id": "first-contentful-paint",
+     "title": "First Contentful Paint",
+     "dv": "3.1 s"
+    },
+    {
+     "id": "largest-contentful-paint",
+     "title": "Largest Contentful Paint",
+     "dv": "5.9 s"
+    },
+    {
+     "id": "total-blocking-time",
+     "title": "Total Blocking Time",
+     "dv": "480 ms"
+    },
+    {
+     "id": "speed-index",
+     "title": "Speed Index",
+     "dv": "5.1 s"
+    },
+    {
+     "id": "font-display-insight",
+     "title": "Font display",
+     "dv": "Est savings of 60 ms"
+    },
+    {
+     "id": "legacy-javascript-insight",
+     "title": "Legacy JavaScript",
+     "dv": "Est savings of 10 KiB"
+    },
+    {
+     "id": "network-dependency-tree-insight",
+     "title": "Network dependency tree",
+     "dv": ""
+    },
+    {
+     "id": "render-blocking-insight",
+     "title": "Render-blocking requests",
+     "dv": "Est savings of 240 ms"
+    },
+    {
+     "id": "interactive",
+     "title": "Time to Interactive",
+     "dv": "11.3 s"
+    },
+    {
+     "id": "max-potential-fid",
+     "title": "Max Potential First Input Delay",
+     "dv": "320 ms"
+    },
+    {
+     "id": "unminified-css",
+     "title": "Minify CSS",
+     "dv": "Est savings of 31 KiB"
+    },
+    {
+     "id": "unminified-javascript",
+     "title": "Minify JavaScript",
+     "dv": "Est savings of 2 KiB"
+    },
+    {
+     "id": "unused-css-rules",
+     "title": "Reduce unused CSS",
+     "dv": "Est savings of 46 KiB"
+    },
+    {
+     "id": "unused-javascript",
+     "title": "Reduce unused JavaScript",
+     "dv": "Est savings of 608 KiB"
+    },
+    {
+     "id": "mainthread-work-breakdown",
+     "title": "Minimize main-thread work",
+     "dv": "3.0 s"
+    },
+    {
+     "id": "bf-cache",
+     "title": "Page prevented back/forward cache restoration",
+     "dv": "2 failure reasons"
+    }
+   ],
+   "accessibility": [
+    {
+     "id": "color-contrast",
+     "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+     "dv": ""
+    }
+   ],
+   "best-practices": [
+    {
+     "id": "errors-in-console",
+     "title": "Browser errors were logged to the console",
+     "dv": ""
+    },
+    {
+     "id": "valid-source-maps",
+     "title": "Missing source maps for large first-party JavaScript",
+     "dv": ""
+    },
+    {
+     "id": "inspector-issues",
+     "title": "Issues were logged in the `Issues` panel in Chrome Devtools",
+     "dv": ""
+    }
+   ],
+   "seo": [
+    {
+     "id": "is-crawlable",
+     "title": "Page is blocked from indexing",
+     "dv": ""
+    },
+    {
+     "id": "meta-description",
+     "title": "Document does not have a meta description",
+     "dv": ""
+    }
+   ],
+   "agentic-browsing": []
+  },
+  "warnings": [],
+  "benchmarkIndex": 2726
+ },
+ {
+  "file": "en.wikipedia.org-20260918T074001.html",
+  "url": "https://en.wikipedia.org/wiki/Main_Page",
+  "fetchTime": "2026-09-18T00:40:01.724Z",
+  "lhVersion": "13.4.1",
+  "formFactor": "mobile",
+  "throttling": {
+   "rttMs": 150,
+   "kbps": 1638.4,
+   "cpu": 4
+  },
+  "scores": {
+   "performance": 93,
+   "accessibility": 92,
+   "best-practices": 100,
+   "seo": 92,
+   "agentic-browsing": 50
+  },
+  "metrics": {
+   "FCP": 1332.9271999999999,
+   "LCP": 1618.1746999999998,
+   "TBT": 316.5,
+   "CLS": 0,
+   "SI": 1538.3027158056016,
+   "TTI": 3679.9863250000008
+  },
+  "totalKiB": 500,
+  "requests": 28,
+  "fails": {
+   "performance": [
+    {
+     "id": "first-contentful-paint",
+     "title": "First Contentful Paint",
+     "dv": "1.3 s"
+    },
+    {
+     "id": "largest-contentful-paint",
+     "title": "Largest Contentful Paint",
+     "dv": "1.6 s"
+    },
+    {
+     "id": "total-blocking-time",
+     "title": "Total Blocking Time",
+     "dv": "320 ms"
+    },
+    {
+     "id": "cache-insight",
+     "title": "Use efficient cache lifetimes",
+     "dv": "Est savings of 177 KiB"
+    },
+    {
+     "id": "image-delivery-insight",
+     "title": "Improve image delivery",
+     "dv": "Est savings of 102 KiB"
+    },
+    {
+     "id": "network-dependency-tree-insight",
+     "title": "Network dependency tree",
+     "dv": ""
+    },
+    {
+     "id": "render-blocking-insight",
+     "title": "Render-blocking requests",
+     "dv": "Est savings of 50 ms"
+    },
+    {
+     "id": "interactive",
+     "title": "Time to Interactive",
+     "dv": "3.7 s"
+    },
+    {
+     "id": "max-potential-fid",
+     "title": "Max Potential First Input Delay",
+     "dv": "250 ms"
+    },
+    {
+     "id": "unminified-javascript",
+     "title": "Minify JavaScript",
+     "dv": "Est savings of 2 KiB"
+    },
+    {
+     "id": "unused-css-rules",
+     "title": "Reduce unused CSS",
+     "dv": "Est savings of 15 KiB"
+    },
+    {
+     "id": "unused-javascript",
+     "title": "Reduce unused JavaScript",
+     "dv": "Est savings of 53 KiB"
+    },
+    {
+     "id": "mainthread-work-breakdown",
+     "title": "Minimize main-thread work",
+     "dv": "2.0 s"
+    },
+    {
+     "id": "unsized-images",
+     "title": "Image elements do not have explicit `width` and `height`",
+     "dv": ""
+    }
+   ],
+   "accessibility": [
+    {
+     "id": "color-contrast",
+     "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+     "dv": ""
+    },
+    {
+     "id": "label",
+     "title": "Form elements do not have associated labels",
+     "dv": ""
+    },
+    {
+     "id": "label-content-name-mismatch",
+     "title": "Elements with visible text labels do not have matching accessible names.",
+     "dv": ""
+    }
+   ],
+   "best-practices": [
+    {
+     "id": "valid-source-maps",
+     "title": "Missing source maps for large first-party JavaScript",
+     "dv": ""
+    }
+   ],
+   "seo": [
+    {
+     "id": "meta-description",
+     "title": "Document does not have a meta description",
+     "dv": ""
+    }
+   ],
+   "agentic-browsing": [
+    {
+     "id": "agent-accessibility-tree",
+     "title": "Accessibility tree is not well-formed",
+     "dv": ""
+    }
+   ]
+  },
+  "warnings": [],
+  "benchmarkIndex": 2671.5
+ },
+ {
+  "file": "en.wikipedia.org-20260918T074416.html",
+  "url": "https://en.wikipedia.org/wiki/Main_Page",
+  "fetchTime": "2026-09-18T00:44:16.047Z",
+  "lhVersion": "13.4.1",
+  "formFactor": "mobile",
+  "throttling": {
+   "rttMs": 150,
+   "kbps": 1638.4,
+   "cpu": 4
+  },
+  "scores": {
+   "performance": 95,
+   "accessibility": 95,
+   "best-practices": 100,
+   "seo": 92,
+   "agentic-browsing": 50
+  },
+  "metrics": {
+   "FCP": 1355.9084,
+   "LCP": 1410.9084,
+   "TBT": 263.0000000000001,
+   "CLS": 0,
+   "SI": 1366.8743514836601,
+   "TTI": 3151.7584
+  },
+  "totalKiB": 490,
+  "requests": 24,
+  "fails": {
+   "performance": [
+    {
+     "id": "first-contentful-paint",
+     "title": "First Contentful Paint",
+     "dv": "1.4 s"
+    },
+    {
+     "id": "total-blocking-time",
+     "title": "Total Blocking Time",
+     "dv": "260 ms"
+    },
+    {
+     "id": "cache-insight",
+     "title": "Use efficient cache lifetimes",
+     "dv": "Est savings of 174 KiB"
+    },
+    {
+     "id": "image-delivery-insight",
+     "title": "Improve image delivery",
+     "dv": "Est savings of 102 KiB"
+    },
+    {
+     "id": "network-dependency-tree-insight",
+     "title": "Network dependency tree",
+     "dv": ""
+    },
+    {
+     "id": "render-blocking-insight",
+     "title": "Render-blocking requests",
+     "dv": "Est savings of 30 ms"
+    },
+    {
+     "id": "interactive",
+     "title": "Time to Interactive",
+     "dv": "3.2 s"
+    },
+    {
+     "id": "max-potential-fid",
+     "title": "Max Potential First Input Delay",
+     "dv": "240 ms"
+    },
+    {
+     "id": "unminified-javascript",
+     "title": "Minify JavaScript",
+     "dv": "Est savings of 2 KiB"
+    },
+    {
+     "id": "unused-css-rules",
+     "title": "Reduce unused CSS",
+     "dv": "Est savings of 15 KiB"
+    },
+    {
+     "id": "unused-javascript",
+     "title": "Reduce unused JavaScript",
+     "dv": "Est savings of 91 KiB"
+    },
+    {
+     "id": "unsized-images",
+     "title": "Image elements do not have explicit `width` and `height`",
+     "dv": ""
+    }
+   ],
+   "accessibility": [
+    {
+     "id": "label",
+     "title": "Form elements do not have associated labels",
+     "dv": ""
+    }
+   ],
+   "best-practices": [
+    {
+     "id": "valid-source-maps",
+     "title": "Missing source maps for large first-party JavaScript",
+     "dv": ""
+    }
+   ],
+   "seo": [
+    {
+     "id": "meta-description",
+     "title": "Document does not have a meta description",
+     "dv": ""
+    }
+   ],
+   "agentic-browsing": [
+    {
+     "id": "agent-accessibility-tree",
+     "title": "Accessibility tree is not well-formed",
+     "dv": ""
+    }
+   ]
+  },
+  "warnings": [],
+  "benchmarkIndex": 2594
+ },
+ {
+  "file": "en.wikipedia.org-20260918T074526.html",
+  "url": "https://en.wikipedia.org/wiki/Main_Page",
+  "fetchTime": "2026-09-18T00:45:26.783Z",
+  "lhVersion": "13.4.1",
+  "formFactor": "mobile",
+  "throttling": {
+   "rttMs": 150,
+   "kbps": 1638.4,
+   "cpu": 4
+  },
+  "scores": {
+   "performance": 91,
+   "accessibility": 95,
+   "best-practices": 100,
+   "seo": 92,
+   "agentic-browsing": 50
+  },
+  "metrics": {
+   "FCP": 1546.8242,
+   "LCP": 1784.8242,
+   "TBT": 364,
+   "CLS": 0,
+   "SI": 1843.0850833218237,
+   "TTI": 3835.3742
+  },
+  "totalKiB": 490,
+  "requests": 24,
+  "fails": {
+   "performance": [
+    {
+     "id": "first-contentful-paint",
+     "title": "First Contentful Paint",
+     "dv": "1.5 s"
+    },
+    {
+     "id": "largest-contentful-paint",
+     "title": "Largest Contentful Paint",
+     "dv": "1.8 s"
+    },
+    {
+     "id": "total-blocking-time",
+     "title": "Total Blocking Time",
+     "dv": "360 ms"
+    },
+    {
+     "id": "cache-insight",
+     "title": "Use efficient cache lifetimes",
+     "dv": "Est savings of 174 KiB"
+    },
+    {
+     "id": "image-delivery-insight",
+     "title": "Improve image delivery",
+     "dv": "Est savings of 102 KiB"
+    },
+    {
+     "id": "network-dependency-tree-insight",
+     "title": "Network dependency tree",
+     "dv": ""
+    },
+    {
+     "id": "render-blocking-insight",
+     "title": "Render-blocking requests",
+     "dv": ""
+    },
+    {
+     "id": "interactive",
+     "title": "Time to Interactive",
+     "dv": "3.8 s"
+    },
+    {
+     "id": "max-potential-fid",
+     "title": "Max Potential First Input Delay",
+     "dv": "300 ms"
+    },
+    {
+     "id": "unminified-javascript",
+     "title": "Minify JavaScript",
+     "dv": "Est savings of 2 KiB"
+    },
+    {
+     "id": "unused-css-rules",
+     "title": "Reduce unused CSS",
+     "dv": "Est savings of 15 KiB"
+    },
+    {
+     "id": "unused-javascript",
+     "title": "Reduce unused JavaScript",
+     "dv": "Est savings of 84 KiB"
+    },
+    {
+     "id": "mainthread-work-breakdown",
+     "title": "Minimize main-thread work",
+     "dv": "2.1 s"
+    },
+    {
+     "id": "unsized-images",
+     "title": "Image elements do not have explicit `width` and `height`",
+     "dv": ""
+    }
+   ],
+   "accessibility": [
+    {
+     "id": "label",
+     "title": "Form elements do not have associated labels",
+     "dv": ""
+    }
+   ],
+   "best-practices": [
+    {
+     "id": "valid-source-maps",
+     "title": "Missing source maps for large first-party JavaScript",
+     "dv": ""
+    }
+   ],
+   "seo": [
+    {
+     "id": "meta-description",
+     "title": "Document does not have a meta description",
+     "dv": ""
+    }
+   ],
+   "agentic-browsing": [
+    {
+     "id": "agent-accessibility-tree",
+     "title": "Accessibility tree is not well-formed",
+     "dv": ""
+    }
+   ]
+  },
+  "warnings": [],
+  "benchmarkIndex": 2837
+ },
+ {
+  "file": "en.wikipedia.org-20260918T074833.html",
+  "url": "https://en.wikipedia.org/wiki/Main_Page",
+  "fetchTime": "2026-09-18T00:48:33.150Z",
+  "lhVersion": "13.4.1",
+  "formFactor": "mobile",
+  "throttling": {
+   "rttMs": 150,
+   "kbps": 1638.4,
+   "cpu": 4
+  },
+  "scores": {
+   "performance": 93,
+   "accessibility": 95,
+   "best-practices": 100,
+   "seo": 92,
+   "agentic-browsing": 50
+  },
+  "metrics": {
+   "FCP": 1377.6171,
+   "LCP": 1797.6171,
+   "TBT": 305,
+   "CLS": 0,
+   "SI": 1540.6648762318812,
+   "TTI": 3845.4170999999997
+  },
+  "totalKiB": 490,
+  "requests": 24,
+  "fails": {
+   "performance": [
+    {
+     "id": "first-contentful-paint",
+     "title": "First Contentful Paint",
+     "dv": "1.4 s"
+    },
+    {
+     "id": "largest-contentful-paint",
+     "title": "Largest Contentful Paint",
+     "dv": "1.8 s"
+    },
+    {
+     "id": "total-blocking-time",
+     "title": "Total Blocking Time",
+     "dv": "310 ms"
+    },
+    {
+     "id": "cache-insight",
+     "title": "Use efficient cache lifetimes",
+     "dv": "Est savings of 174 KiB"
+    },
+    {
+     "id": "image-delivery-insight",
+     "title": "Improve image delivery",
+     "dv": "Est savings of 102 KiB"
+    },
+    {
+     "id": "network-dependency-tree-insight",
+     "title": "Network dependency tree",
+     "dv": ""
+    },
+    {
+     "id": "render-blocking-insight",
+     "title": "Render-blocking requests",
+     "dv": "Est savings of 30 ms"
+    },
+    {
+     "id": "interactive",
+     "title": "Time to Interactive",
+     "dv": "3.8 s"
+    },
+    {
+     "id": "max-potential-fid",
+     "title": "Max Potential First Input Delay",
+     "dv": "240 ms"
+    },
+    {
+     "id": "unminified-javascript",
+     "title": "Minify JavaScript",
+     "dv": "Est savings of 2 KiB"
+    },
+    {
+     "id": "unused-css-rules",
+     "title": "Reduce unused CSS",
+     "dv": "Est savings of 15 KiB"
+    },
+    {
+     "id": "unused-javascript",
+     "title": "Reduce unused JavaScript",
+     "dv": "Est savings of 84 KiB"
+    },
+    {
+     "id": "mainthread-work-breakdown",
+     "title": "Minimize main-thread work",
+     "dv": "2.0 s"
+    },
+    {
+     "id": "unsized-images",
+     "title": "Image elements do not have explicit `width` and `height`",
+     "dv": ""
+    }
+   ],
+   "accessibility": [
+    {
+     "id": "label",
+     "title": "Form elements do not have associated labels",
+     "dv": ""
+    }
+   ],
+   "best-practices": [
+    {
+     "id": "valid-source-maps",
+     "title": "Missing source maps for large first-party JavaScript",
+     "dv": ""
+    }
+   ],
+   "seo": [
+    {
+     "id": "meta-description",
+     "title": "Document does not have a meta description",
+     "dv": ""
+    }
+   ],
+   "agentic-browsing": [
+    {
+     "id": "agent-accessibility-tree",
+     "title": "Accessibility tree is not well-formed",
+     "dv": ""
+    }
+   ]
+  },
+  "warnings": [],
+  "benchmarkIndex": 2675
+ },
+ {
+  "file": "en.wikipedia.org-20260918T074913.html",
+  "url": "https://en.wikipedia.org/wiki/Main_Page",
+  "fetchTime": "2026-09-18T00:49:13.294Z",
+  "lhVersion": "13.4.1",
+  "formFactor": "mobile",
+  "throttling": {
+   "rttMs": 150,
+   "kbps": 1638.4,
+   "cpu": 4
+  },
+  "scores": {
+   "performance": 99,
+   "accessibility": 95,
+   "best-practices": 100,
+   "seo": 92,
+   "agentic-browsing": 50
+  },
+  "metrics": {
+   "FCP": 1426.0965,
+   "LCP": 1644.602,
+   "TBT": 89,
+   "CLS": 0,
+   "SI": 1426.0965,
+   "TTI": 2296.6490750000003
+  },
+  "totalKiB": 288,
+  "requests": 22,
+  "fails": {
+   "performance": [
+    {
+     "id": "first-contentful-paint",
+     "title": "First Contentful Paint",
+     "dv": "1.4 s"
+    },
+    {
+     "id": "largest-contentful-paint",
+     "title": "Largest Contentful Paint",
+     "dv": "1.6 s"
+    },
+    {
+     "id": "total-blocking-time",
+     "title": "Total Blocking Time",
+     "dv": "90 ms"
+    },
+    {
+     "id": "cache-insight",
+     "title": "Use efficient cache lifetimes",
+     "dv": "Est savings of 174 KiB"
+    },
+    {
+     "id": "image-delivery-insight",
+     "title": "Improve image delivery",
+     "dv": "Est savings of 102 KiB"
+    },
+    {
+     "id": "network-dependency-tree-insight",
+     "title": "Network dependency tree",
+     "dv": ""
+    },
+    {
+     "id": "render-blocking-insight",
+     "title": "Render-blocking requests",
+     "dv": ""
+    },
+    {
+     "id": "interactive",
+     "title": "Time to Interactive",
+     "dv": "2.3 s"
+    },
+    {
+     "id": "max-potential-fid",
+     "title": "Max Potential First Input Delay",
+     "dv": "280 ms"
+    },
+    {
+     "id": "unminified-javascript",
+     "title": "Minify JavaScript",
+     "dv": "Est savings of 2 KiB"
+    },
+    {
+     "id": "unused-css-rules",
+     "title": "Reduce unused CSS",
+     "dv": "Est savings of 15 KiB"
+    },
+    {
+     "id": "unsized-images",
+     "title": "Image elements do not have explicit `width` and `height`",
+     "dv": ""
+    }
+   ],
+   "accessibility": [
+    {
+     "id": "label",
+     "title": "Form elements do not have associated labels",
+     "dv": ""
+    }
+   ],
+   "best-practices": [],
+   "seo": [
+    {
+     "id": "meta-description",
+     "title": "Document does not have a meta description",
+     "dv": ""
+    }
+   ],
+   "agentic-browsing": [
+    {
+     "id": "agent-accessibility-tree",
+     "title": "Accessibility tree is not well-formed",
+     "dv": ""
+    }
+   ]
+  },
+  "warnings": [],
+  "benchmarkIndex": 2840
+ },
+ {
+  "file": "en.wikipedia.org-20260918T074945.html",
+  "url": "https://en.wikipedia.org/wiki/Main_Page",
+  "fetchTime": "2026-09-18T00:49:45.956Z",
+  "lhVersion": "13.4.1",
+  "formFactor": "mobile",
+  "throttling": {
+   "rttMs": 150,
+   "kbps": 1638.4,
+   "cpu": 4
+  },
+  "scores": {
+   "performance": 99,
+   "accessibility": 95,
+   "best-practices": 100,
+   "seo": 92,
+   "agentic-browsing": 50
+  },
+  "metrics": {
+   "FCP": 1419.8552,
+   "LCP": 1673.8582,
+   "TBT": 39.5,
+   "CLS": 0,
+   "SI": 1419.8552,
+   "TTI": 2325.36195
+  },
+  "totalKiB": 288,
+  "requests": 22,
+  "fails": {
+   "performance": [
+    {
+     "id": "first-contentful-paint",
+     "title": "First Contentful Paint",
+     "dv": "1.4 s"
+    },
+    {
+     "id": "largest-contentful-paint",
+     "title": "Largest Contentful Paint",
+     "dv": "1.7 s"
+    },
+    {
+     "id": "cache-insight",
+     "title": "Use efficient cache lifetimes",
+     "dv": "Est savings of 174 KiB"
+    },
+    {
+     "id": "image-delivery-insight",
+     "title": "Improve image delivery",
+     "dv": "Est savings of 102 KiB"
+    },
+    {
+     "id": "network-dependency-tree-insight",
+     "title": "Network dependency tree",
+     "dv": ""
+    },
+    {
+     "id": "render-blocking-insight",
+     "title": "Render-blocking requests",
+     "dv": "Est savings of 30 ms"
+    },
+    {
+     "id": "interactive",
+     "title": "Time to Interactive",
+     "dv": "2.3 s"
+    },
+    {
+     "id": "max-potential-fid",
+     "title": "Max Potential First Input Delay",
+     "dv": "250 ms"
+    },
+    {
+     "id": "unminified-javascript",
+     "title": "Minify JavaScript",
+     "dv": "Est savings of 2 KiB"
+    },
+    {
+     "id": "unused-css-rules",
+     "title": "Reduce unused CSS",
+     "dv": "Est savings of 15 KiB"
+    },
+    {
+     "id": "unsized-images",
+     "title": "Image elements do not have explicit `width` and `height`",
+     "dv": ""
+    }
+   ],
+   "accessibility": [
+    {
+     "id": "label",
+     "title": "Form elements do not have associated labels",
+     "dv": ""
+    }
+   ],
+   "best-practices": [],
+   "seo": [
+    {
+     "id": "meta-description",
+     "title": "Document does not have a meta description",
+     "dv": ""
+    }
+   ],
+   "agentic-browsing": [
+    {
+     "id": "agent-accessibility-tree",
+     "title": "Accessibility tree is not well-formed",
+     "dv": ""
+    }
+   ]
+  },
+  "warnings": [],
+  "benchmarkIndex": 2772.5
+ },
+ {
+  "file": "en.wikipedia.org-20260918T075639.html",
+  "url": "https://en.wikipedia.org/wiki/Main_Page",
+  "fetchTime": "2026-09-18T00:56:39.908Z",
+  "lhVersion": "13.4.1",
+  "formFactor": "desktop",
+  "throttling": {
+   "rttMs": 40,
+   "kbps": 10240,
+   "cpu": 1
+  },
+  "scores": {
+   "performance": 100,
+   "accessibility": 100,
+   "best-practices": 100,
+   "seo": 92,
+   "agentic-browsing": 50
+  },
+  "metrics": {
+   "FCP": 433.4896,
+   "LCP": 433.4896,
+   "TBT": 0,
+   "CLS": 0.001001973351189968,
+   "SI": 571.4098390825602,
+   "TTI": 458.0396
+  },
+  "totalKiB": 876,
+  "requests": 38,
+  "fails": {
+   "performance": [
+    {
+     "id": "cache-insight",
+     "title": "Use efficient cache lifetimes",
+     "dv": "Est savings of 507 KiB"
+    },
+    {
+     "id": "image-delivery-insight",
+     "title": "Improve image delivery",
+     "dv": "Est savings of 342 KiB"
+    },
+    {
+     "id": "network-dependency-tree-insight",
+     "title": "Network dependency tree",
+     "dv": ""
+    },
+    {
+     "id": "render-blocking-insight",
+     "title": "Render-blocking requests",
+     "dv": ""
+    },
+    {
+     "id": "unminified-javascript",
+     "title": "Minify JavaScript",
+     "dv": "Est savings of 2 KiB"
+    },
+    {
+     "id": "unused-css-rules",
+     "title": "Reduce unused CSS",
+     "dv": "Est savings of 23 KiB"
+    },
+    {
+     "id": "unused-javascript",
+     "title": "Reduce unused JavaScript",
+     "dv": "Est savings of 82 KiB"
+    }
+   ],
+   "accessibility": [],
+   "best-practices": [
+    {
+     "id": "valid-source-maps",
+     "title": "Missing source maps for large first-party JavaScript",
+     "dv": ""
+    }
+   ],
+   "seo": [
+    {
+     "id": "meta-description",
+     "title": "Document does not have a meta description",
+     "dv": ""
+    }
+   ],
+   "agentic-browsing": [
+    {
+     "id": "agent-accessibility-tree",
+     "title": "Accessibility tree is not well-formed",
+     "dv": ""
+    }
+   ]
+  },
+  "warnings": [],
+  "benchmarkIndex": 2769
+ },
+ {
+  "file": "en.wikipedia.org-20260918T075714.html",
+  "url": "https://en.wikipedia.org/wiki/Main_Page",
+  "fetchTime": "2026-09-18T00:57:14.513Z",
+  "lhVersion": "13.4.1",
+  "formFactor": "desktop",
+  "throttling": {
+   "rttMs": 40,
+   "kbps": 10240,
+   "cpu": 1
+  },
+  "scores": {
+   "performance": 100,
+   "accessibility": 100,
+   "best-practices": 100,
+   "seo": 92,
+   "agentic-browsing": 50
+  },
+  "metrics": {
+   "FCP": 402.8216,
+   "LCP": 402.8216,
+   "TBT": 0,
+   "CLS": 0.001001973351189968,
+   "SI": 402.8216,
+   "TTI": 415.8216
+  },
+  "totalKiB": 668,
+  "requests": 33,
+  "fails": {
+   "performance": [
+    {
+     "id": "cache-insight",
+     "title": "Use efficient cache lifetimes",
+     "dv": "Est savings of 507 KiB"
+    },
+    {
+     "id": "image-delivery-insight",
+     "title": "Improve image delivery",
+     "dv": "Est savings of 342 KiB"
+    },
+    {
+     "id": "network-dependency-tree-insight",
+     "title": "Network dependency tree",
+     "dv": ""
+    },
+    {
+     "id": "render-blocking-insight",
+     "title": "Render-blocking requests",
+     "dv": ""
+    },
+    {
+     "id": "max-potential-fid",
+     "title": "Max Potential First Input Delay",
+     "dv": "70 ms"
+    },
+    {
+     "id": "unminified-javascript",
+     "title": "Minify JavaScript",
+     "dv": "Est savings of 2 KiB"
+    },
+    {
+     "id": "unused-css-rules",
+     "title": "Reduce unused CSS",
+     "dv": "Est savings of 11 KiB"
+    }
+   ],
+   "accessibility": [],
+   "best-practices": [],
+   "seo": [
+    {
+     "id": "meta-description",
+     "title": "Document does not have a meta description",
+     "dv": ""
+    }
+   ],
+   "agentic-browsing": [
+    {
+     "id": "agent-accessibility-tree",
+     "title": "Accessibility tree is not well-formed",
+     "dv": ""
+    }
+   ]
+  },
+  "warnings": [],
+  "benchmarkIndex": 2779
+ },
+ {
+  "file": "en.wikipedia.org-20260918T075742.html",
+  "url": "https://en.wikipedia.org/wiki/Main_Page",
+  "fetchTime": "2026-09-18T00:57:42.478Z",
+  "lhVersion": "13.4.1",
+  "formFactor": "desktop",
+  "throttling": {
+   "rttMs": 40,
+   "kbps": 10240,
+   "cpu": 1
+  },
+  "scores": {
+   "performance": 100,
+   "accessibility": 100,
+   "best-practices": 100,
+   "seo": 92,
+   "agentic-browsing": 50
+  },
+  "metrics": {
+   "FCP": 426.0376,
+   "LCP": 456.5376,
+   "TBT": 0,
+   "CLS": 0.001001973351189968,
+   "SI": 529.3417513030992,
+   "TTI": 456.98760000000004
+  },
+  "totalKiB": 668,
+  "requests": 33,
+  "fails": {
+   "performance": [
+    {
+     "id": "cache-insight",
+     "title": "Use efficient cache lifetimes",
+     "dv": "Est savings of 507 KiB"
+    },
+    {
+     "id": "image-delivery-insight",
+     "title": "Improve image delivery",
+     "dv": "Est savings of 342 KiB"
+    },
+    {
+     "id": "network-dependency-tree-insight",
+     "title": "Network dependency tree",
+     "dv": ""
+    },
+    {
+     "id": "render-blocking-insight",
+     "title": "Render-blocking requests",
+     "dv": ""
+    },
+    {
+     "id": "unminified-javascript",
+     "title": "Minify JavaScript",
+     "dv": "Est savings of 2 KiB"
+    },
+    {
+     "id": "unused-css-rules",
+     "title": "Reduce unused CSS",
+     "dv": "Est savings of 11 KiB"
+    }
+   ],
+   "accessibility": [],
+   "best-practices": [],
+   "seo": [
+    {
+     "id": "meta-description",
+     "title": "Document does not have a meta description",
+     "dv": ""
+    }
+   ],
+   "agentic-browsing": [
+    {
+     "id": "agent-accessibility-tree",
+     "title": "Accessibility tree is not well-formed",
+     "dv": ""
+    }
+   ]
+  },
+  "warnings": [],
+  "benchmarkIndex": 2857
+ }
+]
